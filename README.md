@@ -1,4 +1,4 @@
-Next Talk  real-time chat application built with Spring Boot and WebSocket technology. 
+NexTalk  real-time chat application built with Spring Boot and WebSocket technology. 
 This app demonstrates modern, efficient, and interactive messaging using Java on the backend 
 and a responsive web interface. Ideal for learning, experimenting, or as a robust foundation for production-grade chat services.
 
